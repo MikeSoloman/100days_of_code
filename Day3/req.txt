@@ -1,0 +1,7 @@
+Day 3 goal is to build a treasure island,
+
+full of adventures, go left, right, stright....
+
+pretty much it will be build on if elif else logic...
+
+Happy Coding

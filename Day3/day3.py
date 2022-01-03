@@ -29,7 +29,7 @@ if user_input != choice(["left", "right"]):
 else:
     print("Good choice")
     user_input = input("Let's keep playing, swim or wait? ").lower().strip()
-    if user_input == choice(["swim", "wait"]):
+    if user_input != choice(["swim", "wait"]):
         print("Ohhh nooo... you have been attacked by a mysterious monster, game over")
     else:
         print("Good choice")

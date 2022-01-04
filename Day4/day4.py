@@ -1,4 +1,4 @@
-# Day 4 coding challenge was submitted one day less because a
+# Day 4 coding challenge was submitted one day late because a
 #severe snow storms and extreme power outages in my area
 #which left close to 120,000 people without electricity for
 #almost 26-27 hrs... but positive thing is that I have managed to

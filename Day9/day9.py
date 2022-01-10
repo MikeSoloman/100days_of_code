@@ -19,7 +19,7 @@ while True:
     else:
         highest_bid = 0
         winner = ""
-        for k,v in auction_bidders.items():
+        for k, v in auction_bidders.items():
             if v > highest_bid:
                 winner = k
                 highest_bid = v
